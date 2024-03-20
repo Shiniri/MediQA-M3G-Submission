@@ -7,11 +7,12 @@ from transformers import AutoTokenizer
 
 prompt = (
     "You are a helpful medical AI assistant. "
-    "You will now recieve a list of words. "
-    "Decide which of said words can be considered an illness. "
-    "Answer by writing out the words which can be considered an illness. "
-    "Do not generate any other text apart from that. "
-    "LIST: \n"
+    "You will now recieve a list of terms, some of which are "
+    "illnesses. It is your task to pick the illness which was "
+    "mentioned most often among the list of words you recieved. "
+    "Do not generate any text apart from the one illness mentioned "
+    "most often. "
+    "List:\n"
 )
 
 inference_client = InferenceClient("http://127.0.0.1:8080")
@@ -26,7 +27,9 @@ with open(input_path, "r") as input_file:
     data = json.load(input_file)
 
 with open(output_path, "w") as output_file:
-    for entry in data:
+    doc_one = nlp("\n\n".join([response["content_en"] for response in data[0]["responses"]]))
+    ents_one = "; ".join([token.text for token in doc_one if token.ent_type_ == "ENTITY"])
+    for entry in data[1:]:
         responses = "\n\n".join([response["content_en"] for response in entry["responses"]])
         doc = nlp(responses.lower())
 
@@ -38,7 +41,13 @@ with open(output_path, "w") as output_file:
         ents = ";".join([token.text for token in doc if token.ent_type_ == "ENTITY"])
 
         # Infer illnesses & Diagnoses
-        model_input = tokenizer.apply_chat_template([{"role" : "user", "content" : (prompt+ents)}], tokenize=False)
+        model_input = tokenizer.apply_chat_template(
+            [
+                {"role" : "user", "content" : (prompt+ents_one)},
+                {"role" : "assistant", "content" : "Psoriasis"},
+                {"role" : "user", "content" : (prompt+ents)}
+            ], tokenize=False)
+        print(model_input, "\n\n")
         output = inference_client.text_generation(
                     model_input,
                     max_new_tokens=100,
