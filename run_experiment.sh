@@ -59,3 +59,9 @@ python ./scipts/convert_preds_for_challenge.py \
     --input_data_path ./predictions/llava_zh.jsonl \
     --output_data_path ./predictions/prediction.json \
     --language "zh"
+
+# 6. Translate the predictions into Spanish and English using
+#    Mixtral-8x7b
+python ./scipts/translate.py \
+    --input_data_path ./predictions/prediction.json \
+    --output_data_path ./predictions/prediction_translations.json

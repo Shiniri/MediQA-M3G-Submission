@@ -24,7 +24,9 @@ git clone --recursive git@github.com:Shiniri/MediQA.git
    Also include the training and test json files from the challenge in
    `./data/test.json` / `./data/train.json`.
 
-3. Set the Llama path variable in the `./run_experiment` script to
+3. Follow the setup instructions of the original LLaVA-Med repository [here](https://github.com/microsoft/LLaVA-Med).
+
+4. Set the Llama path variable in the `./run_experiment` script to
    point to your Llama checkpoint and execute it.
    **Note:** you can probably leave out certain parts of the script depending on whether
    you want to re-run data conversion, training, etc.
