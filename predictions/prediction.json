@@ -1,0 +1,802 @@
+[
+    {
+        "encounter_id": "ENC00908",
+        "responses": [
+            {
+                "content_zh": "皮疹 比较典型，建议做个病理"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00909",
+        "responses": [
+            {
+                "content_zh": "疼么？楼上说的不清楚，请赐详细的病史"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00910",
+        "responses": [
+            {
+                "content_zh": "湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00911",
+        "responses": [
+            {
+                "content_zh": "皮疹的皮损坏死的可能性大，如果是这种情况我认为不用治疗，如果不用激光治疗，如果不用做美容手术，如果不用脱皮，如果……."
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00912",
+        "responses": [
+            {
+                "content_zh": "神经性皮炎，可以使用尤卓尔"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00913",
+        "responses": [
+            {
+                "content_zh": "考虑是甲沟炎，维生素 k1加维生素 B2尿素霜外涂，避免洗洁精和溶液洗洁精的接触"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00914",
+        "responses": [
+            {
+                "content_zh": "皮疹疮乏的皮內没有任何痒疹或疥疮，是很像湿疹的。可以用维生素C针剂或水杨酸苯甲酸松水溶液。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00915",
+        "responses": [
+            {
+                "content_zh": "慢性荨麻疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00916",
+        "responses": [
+            {
+                "content_zh": "皮肤病"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00917",
+        "responses": [
+            {
+                "content_zh": "皮炎湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00918",
+        "responses": [
+            {
+                "content_zh": "考虑汗疱疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00919",
+        "responses": [
+            {
+                "content_zh": "皮疹 疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00920",
+        "responses": [
+            {
+                "content_zh": "皮疹排除炎症后，考虑脱敏，需要查WOOd等因素"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00921",
+        "responses": [
+            {
+                "content_zh": "荨麻疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00922",
+        "responses": [
+            {
+                "content_zh": "皮损不清楚，考虑真菌"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00923",
+        "responses": [
+            {
+                "content_zh": "湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00924",
+        "responses": [
+            {
+                "content_zh": "慢性湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00925",
+        "responses": [
+            {
+                "content_zh": "皮炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00926",
+        "responses": [
+            {
+                "content_zh": "皮疹的深度都不深，应该只是皮肤瘙痒症，像是接触性皮炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00927",
+        "responses": [
+            {
+                "content_zh": "湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00928",
+        "responses": [
+            {
+                "content_zh": "湿疹，"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00929",
+        "responses": [
+            {
+                "content_zh": "皮肤病吧"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00930",
+        "responses": [
+            {
+                "content_zh": "脂溢性皮炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00931",
+        "responses": [
+            {
+                "content_zh": "疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00932",
+        "responses": [
+            {
+                "content_zh": "很像慢性湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00933",
+        "responses": [
+            {
+                "content_zh": "灰指甲，。。。。。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00934",
+        "responses": [
+            {
+                "content_zh": "考虑疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00935",
+        "responses": [
+            {
+                "content_zh": "考虑疣状痣"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00936",
+        "responses": [
+            {
+                "content_zh": "皮疹的皮损是过敏性皮炎，不要接触过敏原"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00937",
+        "responses": [
+            {
+                "content_zh": "脂腺痣，有无症状？"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00938",
+        "responses": [
+            {
+                "content_zh": "皮病史，病情细胞免疫症？"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00939",
+        "responses": [
+            {
+                "content_zh": "疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00940",
+        "responses": [
+            {
+                "content_zh": "汗孔角化症"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00941",
+        "responses": [
+            {
+                "content_zh": "考虑药疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00942",
+        "responses": [
+            {
+                "content_zh": "皮脂腺痣"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00943",
+        "responses": [
+            {
+                "content_zh": "慢性湿疹吧，不是肥厚性LP"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00944",
+        "responses": [
+            {
+                "content_zh": "疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00945",
+        "responses": [
+            {
+                "content_zh": "痒疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00946",
+        "responses": [
+            {
+                "content_zh": "考虑药疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00947",
+        "responses": [
+            {
+                "content_zh": "疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00948",
+        "responses": [
+            {
+                "content_zh": "皮炎，汗疱疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00949",
+        "responses": [
+            {
+                "content_zh": "湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00950",
+        "responses": [
+            {
+                "content_zh": "多形红斑"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00951",
+        "responses": [
+            {
+                "content_zh": "皮肤病理，排除真菌"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00952",
+        "responses": [
+            {
+                "content_zh": "湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00953",
+        "responses": [
+            {
+                "content_zh": "皮疹 不 真菌 病，感染了 真菌"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00954",
+        "responses": [
+            {
+                "content_zh": "皮肤淀粉样变"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00955",
+        "responses": [
+            {
+                "content_zh": "皮疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00956",
+        "responses": [
+            {
+                "content_zh": "湿疹，但要注意查个真菌"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00957",
+        "responses": [
+            {
+                "content_zh": "皮肤病了，试试艾洛松尼尔替丁，五天一疗程。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00958",
+        "responses": [
+            {
+                "content_zh": "肢端皮炎，疼痛两个月。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00959",
+        "responses": [
+            {
+                "content_zh": "皮疹形、跳蚤叮咬所致，口服抗组胺药物，外用收敛止痒药"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00960",
+        "responses": [
+            {
+                "content_zh": "手癣"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00961",
+        "responses": [
+            {
+                "content_zh": "疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00962",
+        "responses": [
+            {
+                "content_zh": "皮疹排查抗体药物治疗"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00963",
+        "responses": [
+            {
+                "content_zh": "湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00964",
+        "responses": [
+            {
+                "content_zh": "考虑是个急性的关节病"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00965",
+        "responses": [
+            {
+                "content_zh": "皮脂腺痣"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00966",
+        "responses": [
+            {
+                "content_zh": "应该是荨麻疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00967",
+        "responses": [
+            {
+                "content_zh": "色素紫癜性皮炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00968",
+        "responses": [
+            {
+                "content_zh": "像湿疹。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00969",
+        "responses": [
+            {
+                "content_zh": "痤疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00970",
+        "responses": [
+            {
+                "content_zh": "湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00971",
+        "responses": [
+            {
+                "content_zh": "皮肤病理 101"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00972",
+        "responses": [
+            {
+                "content_zh": "考虑真菌感染了。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00973",
+        "responses": [
+            {
+                "content_zh": "考虑: 过敏性紫癜"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00974",
+        "responses": [
+            {
+                "content_zh": "慢性湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00975",
+        "responses": [
+            {
+                "content_zh": "疥疮，需要改善环境。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00976",
+        "responses": [
+            {
+                "content_zh": "毛囊炎的可能性大"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00977",
+        "responses": [
+            {
+                "content_zh": "考虑过敏性皮炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00978",
+        "responses": [
+            {
+                "content_zh": "考虑是带状疱疹，抗病毒治疗。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00979",
+        "responses": [
+            {
+                "content_zh": "皮炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00980",
+        "responses": [
+            {
+                "content_zh": "单纯疱疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00981",
+        "responses": [
+            {
+                "content_zh": "考虑湿疹，但建议查个真菌。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00982",
+        "responses": [
+            {
+                "content_zh": "皮炎,激光治疗,病检"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00983",
+        "responses": [
+            {
+                "content_zh": "皮炎湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00984",
+        "responses": [
+            {
+                "content_zh": "马拉色菌性毛囊炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00985",
+        "responses": [
+            {
+                "content_zh": "胆碱能性荨麻疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00986",
+        "responses": [
+            {
+                "content_zh": "皮肤淀粉样变"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00987",
+        "responses": [
+            {
+                "content_zh": "考虑毛囊炎，病毒疹，或者咖啡斑。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00988",
+        "responses": [
+            {
+                "content_zh": "摩擦性苔藓样疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00989",
+        "responses": [
+            {
+                "content_zh": "粘液样囊肿"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00990",
+        "responses": [
+            {
+                "content_zh": "丘疹性荨麻疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00991",
+        "responses": [
+            {
+                "content_zh": "感觉像蚊虫叮咬了，但是本人也没有什么症状了，只是在皮疹的半年周期逐渐发展，建议去做个真菌检查。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00992",
+        "responses": [
+            {
+                "content_zh": "考虑: 皮损增生"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00993",
+        "responses": [
+            {
+                "content_zh": "慢性湿疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00994",
+        "responses": [
+            {
+                "content_zh": "如果疥疮有痒疮的临床表现，可以考虑：糠秕孢子菌毛囊炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00995",
+        "responses": [
+            {
+                "content_zh": "皮疹 皮脂腺痣"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00996",
+        "responses": [
+            {
+                "content_zh": "皮疹 皮疹 皮疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00997",
+        "responses": [
+            {
+                "content_zh": "考虑疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00998",
+        "responses": [
+            {
+                "content_zh": "皮疹的表现形态"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00999",
+        "responses": [
+            {
+                "content_zh": "皮疹继发的脓疱疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC01000",
+        "responses": [
+            {
+                "content_zh": "考虑疱疹，有无症状？"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC01001",
+        "responses": [
+            {
+                "content_zh": "炎症性苔藓"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC01002",
+        "responses": [
+            {
+                "content_zh": "皮下可能是扁平疣"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC01003",
+        "responses": [
+            {
+                "content_zh": "疥疮"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC01004",
+        "responses": [
+            {
+                "content_zh": "过敏性皮炎"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC01005",
+        "responses": [
+            {
+                "content_zh": "皮疹病毒疹"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC01006",
+        "responses": [
+            {
+                "content_zh": "皮疹病变的可能性大，建议做个真菌镜检。"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC01007",
+        "responses": [
+            {
+                "content_zh": "红斑疮"
+            }
+        ]
+    }
+]

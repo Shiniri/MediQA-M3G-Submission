@@ -1,0 +1,3 @@
+[submodule "LLaVA-Med"]
+	path = LLaVA-Med
+	url = git@github.com:microsoft/LLaVA-Med.git
