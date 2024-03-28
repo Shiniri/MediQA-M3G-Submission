@@ -18,7 +18,9 @@ from the final_prediction.json, which represents our submission.
 git clone --recursive git@github.com:Shiniri/MediQA.git
 ```
 
-2. Include a valid Llama-7b checkpoint in the repository
+2. Include a valid Llama-7b checkpoint in the repository,
+   as well as: the images for the training data in `./data/images_train`
+   and the images for the test data in `./data/images_test`.
 
 3. Set the Llama path variable in the `./run_experiment` script to
    point to your Llama checkpoint and execute it.
