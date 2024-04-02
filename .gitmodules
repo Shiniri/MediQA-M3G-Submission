@@ -1,3 +1,6 @@
 [submodule "LLaVA-Med"]
 	path = LLaVA-Med
 	url = git@github.com:microsoft/LLaVA-Med.git
+[submodule "fitzpatrick17k"]
+	path = fitzpatrick17k
+	url = git@github.com:mattgroh/fitzpatrick17k.git
