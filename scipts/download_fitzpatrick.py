@@ -14,8 +14,6 @@ if not os.path.exists(args.image_directory):
     os.makedirs(args.image_directory)
 
 df = pd.read_csv(args.fitzpatrick_csv)
-print(df)
-print("DF_COLS: ", df.columns)
 
 json_data = []
 for index, row in df.iterrows():
@@ -24,7 +22,6 @@ for index, row in df.iterrows():
     try:
         response = requests.get(row['url'])
         response.raise_for_status()  # Raise an error for bad status codes
-
         with open(os.path.join(args.image_directory, image_filename), 'wb') as image_file:
             image_file.write(response.content)
     except requests.RequestException as e:
@@ -37,7 +34,7 @@ for index, row in df.iterrows():
         "conversations": [
             {
                 "from": "human",
-                "value": "Placeholder prompt"
+                "value": "Please name the illness which can be seen in the image."
             },
             {
                 "from": "gpt",

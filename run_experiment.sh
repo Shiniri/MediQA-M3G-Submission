@@ -1,4 +1,4 @@
-Llava_Checkpoint="/Projects/marie/weird_skin_spot_challenge/LLaVA-7b"
+Llava_Checkpoint="Your/Path/to/Llava/here"
 
 # 1. Convert original data to format that fits Llava
 #    In our case, the language should be Chinese
@@ -49,10 +49,10 @@ python ./scipts/convert_test_data_to_llava.py \
 
 # 4. Use the newly created checkpoint to run QA inference
 python ./LLaVA-Med/llava/eval/model_vqa.py \
-    --model-name ./LLAVA-ZH \
-    --question-file ./data/llava_test.json \
+    --model-name ./LLAVA-EN \
+    --question-file ./data/llava_test_en.json \
     --image-folder ./data/images_test \
-    --answers-file ./predictions/llava_zh.jsonl
+    --answers-file ./predictions/llava_en_fitzpatrick_challenge.jsonl
 
 # 5. Convert LLaVA's predictions back to the challenge target format
 python ./scipts/convert_preds_for_challenge.py \

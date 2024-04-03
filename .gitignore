@@ -1,4 +1,8 @@
 
 LLAVA-ZH/
+LLAVA-EN/
+LLAVA-FITZPATRICK/
 wandb/
 data/
+private_run.sh
+temp.md
