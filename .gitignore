@@ -1,7 +1,5 @@
 
-LLAVA-ZH/
-LLAVA-EN/
-LLAVA-FITZPATRICK/
+models/
 wandb/
 data/
 private_run.sh
