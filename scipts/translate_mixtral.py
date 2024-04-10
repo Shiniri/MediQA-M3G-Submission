@@ -18,7 +18,7 @@ Remember to generate nothing but the translation. Do not add any additional info
 sys_prompt_spanish = """
 Eres un traductor que produce traducciones precisas y completas del chino al español.
 Ahora recibirás el texto de una publicación en un foro chino sobre un tema dermatológico.
-Tu tarea es producir una traducción precisa al inglés de esa publicación en chino.
+Tu tarea es producir una traducción precisa al español de esa publicación en chino.
 Recuerda generar únicamente la traducción. No agregues información adicional.
 
 === Inicio de la publicación ===
